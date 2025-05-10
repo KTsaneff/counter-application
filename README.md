@@ -24,7 +24,7 @@ A simple, responsive counter app built with **HTML**, **CSS**, and **JavaScript*
 
 You can test the app directly through **GitHub Pages**:
 
-👉 [https://KTsaneff.github.io/counter-app/](https://KTsaneff.github.io/counter-app/)
+👉 [https://ktsaneff.github.io/counter-application/](https://ktsaneff.github.io/counter-application/)
 
 ---
 
